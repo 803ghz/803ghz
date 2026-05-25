@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Climify App](https://github.com/803ghz/Climify-App-)
 
-- 👨‍💻 All of my projects are available at [https://803ghz.github.io/portfolio/
+- 👨‍💻 All of my projects are available at https://803ghz.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
