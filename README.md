@@ -6,7 +6,7 @@
 
 -  [Array Spend App](https://github.com/803ghz/Array-Spend-m2): A backend-focused expense tracker designed to simplify personal financial management.
 
-- 💼 All of my projects are available at my [Portfolio]https://803ghz.github.io/portfolio/
+- 💼 All of my projects are available at my [Portfolio](https://803ghz.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
