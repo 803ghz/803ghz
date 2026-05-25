@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=803ghz&label=Profile%20views&color=0e75b6&style=flat" alt="803ghz" /> </p>
 
-- 🔭 I’m currently working on [Climify App](https://github.com/803ghz/Climify-App-)
+- 🔭 I’m currently working on [Array Spend App](https://github.com/803ghz/Array-Spend-m2)
 
 - 👨‍💻 All of my projects are available at https://803ghz.github.io/portfolio/
 
