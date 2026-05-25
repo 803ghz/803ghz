@@ -1,10 +1,10 @@
-<h3 align="center">A Junior Full Stack Developer from Málaga.</h3>
+<h3 align="center">Junior Full Stack Developer from Málaga.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=803ghz&label=Profile%20views&color=0e75b6&style=flat" alt="803ghz" /> </p>
 
 - 🔭 I’m currently working on [Climify App](https://github.com/803ghz/Climify-App-)
 
-- 👨‍💻 All of my projects are available at [https://github.com/803ghz/portfolio](https://github.com/803ghz/portfolio)
+- 👨‍💻 All of my projects are available at [https://803ghz.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
